@@ -1,0 +1,74 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f6;
+}
+
+/* Navbar */
+.navbar-inverse {
+    background-color: #558b2f;
+    /* Hijau daun bawang */
+    border-color: #558b2f;
+}
+
+.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-nav>li>a {
+    color: white !important;
+}
+
+/* Tombol dan Sidenav */
+.btn-primary {
+    background-color: #d84315;
+    /* Merah cabai */
+    border-color: #d84315;
+}
+
+.btn-primary:hover {
+    background-color: #bf360c;
+    /* Merah cabai gelap */
+    border-color: #bf360c;
+}
+
+.sidenav {
+    background-color: #f9f9f6;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.sidenav button {
+    background-color: #558b2f;
+    color: white;
+}
+
+.sidenav button.active {
+    background-color: #33691e;
+    /* Hijau daun tua */
+}
+
+/* Heading */
+h2 {
+    color: #d84315;
+    /* Merah cabai */
+}
+
+/* Panel */
+.panel-info>.panel-heading {
+    background-color: #d84315;
+    /* Merah cabai */
+    color: white;
+}
+
+/* Table */
+table th {
+    background-color: #558b2f;
+    /* Hijau daun bawang */
+    color: white;
+}
+
+/* Footer */
+footer {
+    background-color: #33691e;
+    /* Hijau tua */
+    color: white;
+    padding: 10px 0;
+}
