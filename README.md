@@ -25,7 +25,7 @@ Sistem Pakar Diagnosa Penyakit Bawang dan Cabai adalah aplikasi berbasis web yan
 ## Instalasi dan Penggunaan
 
 ### Prasyarat
-- Server web seperti **XAMPP**, **WAMP**, atau **LAMP**.
+- Server web seperti **XAMPP**, atau **Laragon**
 - PHP versi 7.4 atau lebih baru.
 - MySQL/MariaDB untuk basis data.
 
